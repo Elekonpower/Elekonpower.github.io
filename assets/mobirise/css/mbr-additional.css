@@ -415,6 +415,10 @@ h6,
 #header3-2 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-9 .mbr-section-title,
+#header3-9 .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons3-5 .mbr-section-title,
 #social-buttons3-5 .btn-social {
   color: #fff;
